@@ -2,8 +2,14 @@
 #include <conio.h>
 
 
-
-
 void main(){
-printf("hello world");
+    
+    arr usr(20), pass(20);
+
+
+
+
+
+
+
 }
