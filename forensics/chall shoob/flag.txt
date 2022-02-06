@@ -1,0 +1,5 @@
+NuvCTF{st3gh1d3_1s_4_gr3at_t00l}
+
+
+
+open with steghide
