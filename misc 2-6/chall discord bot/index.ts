@@ -10,23 +10,24 @@ const client = new discordjs.Client({
     ]
 })
 
+
+
 client.on('messageCreate', (Message) => {
-    if (Message.author.id == "933992103682396200"){
-        return;
+    if(Message.author.bot) return
+    else{
+        if(Message.content == "!flag")
+        Message.author.send("NuvCTF{testflag}");
     }
 })
 
 client.on('ready', () => {
-    console.log('saksham is up and running')
+    console.log('saksham bot is up and running');
+
+    client.user?.setActivity(`!flag might help`, {
+        type: 'PLAYING'
+    });   
 })
 
-client.on('messageCreate', (Message) => {
-    if (Message.author.id == "933992103682396200"){
-        return;
-        }
-    else (  Message.reply({
-            content: 'i only respond to dms!',
-        }))
-})
+
 
 client.login(process.env.token)
