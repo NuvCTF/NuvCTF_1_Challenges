@@ -1,5 +1,7 @@
 <?php 
- print( $_POST );
+if( isset($_POST["user"], $_POST["password"]) ){
+  echo "hi";
+}
 ?>
 
 <html>
@@ -17,6 +19,7 @@
   </head>
 
   <body>
+    <h1>register page</h1>
     <form method="post">
       <div class="login_box">
         <div><input name="user" /></div>
