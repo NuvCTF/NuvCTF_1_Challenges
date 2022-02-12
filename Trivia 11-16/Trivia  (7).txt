@@ -1,0 +1,5 @@
+Trivia 7
+
+identify the logo of the programming language
+
+NuVCTF{haskell}

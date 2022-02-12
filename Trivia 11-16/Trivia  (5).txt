@@ -1,0 +1,5 @@
+trivia 5
+
+what is a social engineering attack in which someone watches someone else enter private information such as a password called?
+
+NuvCTF{shoulder_suffering}

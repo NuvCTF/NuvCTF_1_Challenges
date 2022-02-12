@@ -1,0 +1,7 @@
+trivia 11
+
+what tool do you use to scan a network
+
+NuvCTF{nmap}
+
+author: @I use ARCH btw

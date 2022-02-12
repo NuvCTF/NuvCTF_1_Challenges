@@ -1,0 +1,5 @@
+trivia 8
+
+which malware that is self-evolving, that was initailly a ransomware but has now evolved to a highly dangerous file-less malware, that is not in your pc and is still in your pc(inviisble file-less malware)
+
+NuvCTF{kovtar}

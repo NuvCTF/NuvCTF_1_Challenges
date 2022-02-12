@@ -1,0 +1,6 @@
+trivia 9
+
+edward snowden favorite laptop?
+NuvCTF{***_******_****_******}
+
+NuvCTF{the_librem_from_purism}

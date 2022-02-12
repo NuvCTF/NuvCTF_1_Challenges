@@ -1,0 +1,7 @@
+trivia 10
+
+python in win:asm :: python in web:?
+
+NuvCTF{WASM}
+
+author: Toosmart

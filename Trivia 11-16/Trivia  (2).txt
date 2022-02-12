@@ -1,0 +1,5 @@
+Trivia 2
+
+who's operating system was IBM going to buy before MS-DOS
+
+NuvCTF{gary_kildall}

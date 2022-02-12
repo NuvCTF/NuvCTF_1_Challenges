@@ -1,0 +1,5 @@
+Trivia 4 
+
+Microsoft has been threatened by a secret hacker for the last couple of years. this hacker has been infiltrating their network and exposing secret information about them to the world. microsoft is determined to catch this hacker, they set up a computer with vulnerabilities and attempt to lure this hacker into trying to hack this computer in order to reveal his origins. what is this type of system called?
+
+NuvCTF{honeypot}

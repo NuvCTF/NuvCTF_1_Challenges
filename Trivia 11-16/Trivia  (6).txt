@@ -1,0 +1,5 @@
+Trivia 6
+
+what built in windows tool can you use to repair corrupted files?
+
+NuvCTF{SFC}

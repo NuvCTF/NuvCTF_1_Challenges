@@ -1,0 +1,5 @@
+Trivia 1
+
+Who created linux
+
+NuvCTF{linus_torvalds}
