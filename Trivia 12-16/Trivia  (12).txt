@@ -1,0 +1,4 @@
+which vulnerability is used to read a malicious java file from the web for jndi vuln?
+
+nuvctf{log4j}
+

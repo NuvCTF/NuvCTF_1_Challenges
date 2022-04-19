@@ -1,0 +1,3 @@
+excel sheet
+
+nuvctf{forensics_is_a_fun_category}
