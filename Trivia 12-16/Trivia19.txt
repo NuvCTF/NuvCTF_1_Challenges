@@ -1,0 +1,7 @@
+what is the name of the idea that inspired subresource integrity?
+
+
+answer: NUVCTF{link_fingerprints}
+
+
+author : Karandev Chauhan
