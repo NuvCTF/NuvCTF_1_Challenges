@@ -21,22 +21,8 @@ int main(){
             char *dec = b64_decode(str, strlen(str));
             printf("%s\n", dec); 
             free(dec);
+            return 0;
 
             // FILE *fp;
             // fp = fopen ("flag.txt", "w+");
-            // fputs(dec, fp);
-            // fputs("NuvCTF{", fp); 
-            // fputs("g00d_j", fp);
-            // fputs("0b_y0u", fp);
-            // fputs("_n0w_un3rst", fp);
-            // fputs("4nd_b4s", fp);
-            // fputs("1c5_0f_r3v", fp);
-            // fputs("3rs3_3ng1n", fp);
-            // fputs("33r1ng}", fp);
-        
-        }
-    else
-        {
-            return 0;
-        }
-}
+ 
