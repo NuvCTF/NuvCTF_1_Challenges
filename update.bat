@@ -1,3 +1,3 @@
 git add *
-git commit -m "added challenges"
+git commit -m "redone numbering"
 git push
