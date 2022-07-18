@@ -1,7 +1,7 @@
-what does SSh and Vegan Food have in Common ?
+A woman with many hats . Besides being an evil person in the security family she also tried her luck in a 90's movie . what is the name of the movie ?
+
+NUVCTF{natural_born_killers}
+\
 
 
-ANS:NUVCTF{tofu}
-TOFU -- trust on first use the model used by ssh and its also a food ingreadient
-
-author: Karandev Chauhan
+author : Karandev Chauhan

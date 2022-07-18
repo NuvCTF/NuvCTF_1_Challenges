@@ -1,0 +1,7 @@
+one name,one game , and a crypto principle...
+
+
+
+answer :
+  NUVCTF{DOOM}
+Doom which is a game and a crypto principle as well 
