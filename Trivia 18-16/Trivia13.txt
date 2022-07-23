@@ -1,0 +1,7 @@
+what does SSh and Vegan Food have in Common ?
+
+
+ANS:NUVCTF{tofu}
+TOFU -- trust on first use the model used by ssh and its also a food ingreadient
+
+author: Karandev Chauhan

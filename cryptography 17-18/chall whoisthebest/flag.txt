@@ -1,0 +1,3 @@
+NuvCTF{iamthebest}
+
+author: toosmart

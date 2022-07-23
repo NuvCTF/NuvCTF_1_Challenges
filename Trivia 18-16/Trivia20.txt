@@ -1,7 +1,0 @@
-recently some peoople lost a lot of money because a bespoke hashing algorithm was broken ? what was that algorithm ?
-
-answer: NUVCTF{curl}
-
-the curl hashing algorithm was found to be broken developed by IOTA cryptocoin
-
-author: Karandev Chauhan

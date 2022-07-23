@@ -1,0 +1,5 @@
+NuvCTF{h34d3r_3xt3ns10n5_ar3_n3seccary}
+
+
+open as .rtf
+
