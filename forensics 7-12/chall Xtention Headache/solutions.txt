@@ -1,0 +1,16 @@
+info :
+
+
+The Flag.txt file is the hexdump for the origional flag.txt that has been repeateadly compressed 
+
+
+Hint: commands to be used bzip2,tar,xxd,gzip,mv
+
+
+
+file Flag.txt to know that the file reads as Ascii text but we know through the 
+hint that the file's last compression is as a hexdump so we hit xxd -r Flag.txt then we hit file _filename to know the next extention of the flag and so on
+
+
+
+author: Karandev Chauhan
