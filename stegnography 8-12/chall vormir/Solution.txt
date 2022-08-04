@@ -1,0 +1,1 @@
+Steghide --> steghide extract -sf redskull.jpg --> passphrase: hailhydra
