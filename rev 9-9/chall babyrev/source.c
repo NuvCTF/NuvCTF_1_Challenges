@@ -79,21 +79,6 @@ int main() {
     return 0;
 }
 
-// #include <stdio.h>
-// int main()
-// {
-//     str test = "NuvCTF{test}";
-//     str input;
-    
-//     printf("Enter an password: ");
-//     scanf("%s", %input);  
-    
-//     if(%test == %input){
-//     printf("flag correct!");
-//     }else{
-//         printf("wrong flag");
-//     }
-//     return 0;
-// }
+
 
 

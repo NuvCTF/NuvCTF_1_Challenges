@@ -1,0 +1,23 @@
+#include<stdio.io>
+#include<stdlib.h>
+
+int main(int argc, char* argv[]);
+    unsigned char *buffer;
+    printf("[+] Allocate memory for 256 pages\n");
+    buffer = mmap(NULL, 256 * 4096, PROT_READ | PROT_WRITE, MAP_ANONYMOUS | MAP_PRIVATE, -1, 0);
+    memset(buffer, 0, 256 * 4096);
+
+    printf("[+] Flush the 256 pages out of the cache \n");
+    for (size_t k = 0; k < 256; ++k) {
+        __mm__clflush(buffer + k *4096);
+    }
+    __mm_mfence();
+
+
+    buffer[42 * 4096] = 0xff;
+
+    size_t lowest_k = 0;
+    uint64_t lowest_dt = 0xffffffff;
+    for(size_t k=0; k < 256; ++k){
+        
+    }
