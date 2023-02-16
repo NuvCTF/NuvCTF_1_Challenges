@@ -1,0 +1,7 @@
+exif data>>
+pastebin lnk
+base64 encoded text
+rar file
+extract
+rot47
+flag

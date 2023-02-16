@@ -1,0 +1,22 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 1
+Evidence Number: 123
+Unique Description: evidence 123
+Examiner: me
+Notes: idk
+
+--------------------------------------------------------------
+
+Information for C:\Users\shiva\Documents\NuvCTF\img123.ad1:
+[Computed Hashes]
+ MD5 checksum:    a1f7270f381c3486843b4eeffe4c175c
+ SHA1 checksum:   37477e33153e3b53ee74396b80869324796fcd6a
+
+Image information:
+ Acquisition started:   Tue Feb 14 00:08:55 2023
+ Acquisition finished:  Tue Feb 14 00:08:55 2023
+ Segment list:
+  C:\Users\shiva\Documents\NuvCTF\img123.ad1

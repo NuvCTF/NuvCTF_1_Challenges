@@ -11,7 +11,7 @@ let sandbox = Object.create(null);
 ["E", "PI", "sin", "cos", "tan", "log", "pow", "sqrt"].forEach(v => sandbox[v] = Math[v]);
 
 // oh, and the flag too i guess...
-sandbox.flag = new Proxy({ FLAG: process.env.FLAG || "corctf{test_flag}" }, {
+sandbox.flag = new Proxy({ FLAG: process.env.FLAG || "Nuvctf{test_flag}" }, {
     get: () => "nope" // :')
 });
 
