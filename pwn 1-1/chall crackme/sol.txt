@@ -1,0 +1,7 @@
+open file in debugger
+
+look for the string compare function
+change jne(jump if not equal to) to jmp(jump) 
+and change memory address to the address of success function(push function).
+
+voila

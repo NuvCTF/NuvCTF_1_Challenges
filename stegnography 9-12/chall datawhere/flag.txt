@@ -1,0 +1,4 @@
+NuvCTF{3x1f_data_1s_vuln3rabl3}
+
+
+open with exiftools

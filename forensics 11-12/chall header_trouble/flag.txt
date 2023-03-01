@@ -1,0 +1,4 @@
+NuvCTF{7h3r35_m0r3_70_h34d3r5_7h4n_17_l00k5}
+
+edit the "bad" hex and add normal bitmap hex
+exit the second attrib (height ) and resize it too 420

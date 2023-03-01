@@ -4,8 +4,9 @@ val = ''
 
 def read_flag_from_disk():
     with open("./challenge.txt") as flag:
-        return bytes.fromhex(flag.read().strip())
-
+        # return bytes.fromhex(flag.read().strip())
+        print(bytes.fromhex(flag.read().strip()))
+read_flag_from_disk()
 def xor(flag, key):
     out = b""
 
@@ -25,3 +26,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+    # b'\x0c84\t<;$%g-\x02#78\x0878;3\x028*)\x080;\x08&2"~ '
+    

@@ -1,4 +1,0 @@
-fix the qr code in ms paint by adding 2 boxes
-
-
-NuvCTF{br0k3n_qr_c4n_b3_f1x3d_ju5t_l1k3_br0k3n_h3art5_</3}

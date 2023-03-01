@@ -1,0 +1,11 @@
+the japanese have started a new operation called operation bellaciao. the commander gave a speech via encrypted text, we were able to capture this transmission, could you know what are they saying?
+
+OPERATION BELLA CIAO
+
+WGFLXNUWT WHPPUIT NXTT VC Y BDTTNBB
+
+KEYWORD = NULLCMD
+KEY = IOVE
+TOTAL = 18
+SHIFT = 5
+CHARSET = ABCDEFGHIJKLMNOPQRSTUVWXYZ_

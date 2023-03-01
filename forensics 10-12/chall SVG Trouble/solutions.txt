@@ -1,7 +1,0 @@
-to solve this challange open the svg file in a text editor then look for the </tspan
-
-
-or alternatively you can use 
-
-
-cat "filename.svg" | grep  "</tpan | cut -d ">" -f2 | cut -d "<" -f1 | tr -d "\n" | tr -d " "

@@ -23,11 +23,11 @@ def keygen(seed):
 def str2num(s):
     return int(s.encode('hex'), 16)
 
-P = 0x10000000000000000000000000000000000000000000000000000000000000425L
+P = 0x10000000000000000000000000000000000000000000000000000000000000425
 
 true_secret = open('flag.txt').read()[:32]
 assert len(true_secret) == 32
-print 'flag{%s}' % true_secret
+print('flag{%s}' % true_secret)
 fake_secret1 = "I_am_not_a_secret_so_you_know_me"
 fake_secret2 = "feeddeadbeefcafefeeddeadbeefcafe"
 secret = str2num(urandom(32))
