@@ -1,0 +1,1 @@
+print(("zLl1ks_d4m_T0g_I"[::-1]))
