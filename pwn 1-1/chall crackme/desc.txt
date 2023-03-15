@@ -1,0 +1,3 @@
+can u pwn   oh i mean own this simple app?
+
+note: the key is generated using an algorithm that takes the username as a key, so crack wisely....
