@@ -1,1 +1,5 @@
 NuvCTF{substitution_cipher_is_not_ceaser_cipher}
+
+points: 80
+
+author:toosmart

@@ -1,1 +1,6 @@
 NuvCTF{1T_1S_W31RD_N0T_T0_B3_W31RD}
+
+
+points: 50
+
+author: toosmart

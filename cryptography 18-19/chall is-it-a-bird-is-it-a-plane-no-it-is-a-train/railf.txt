@@ -1,6 +1,6 @@
-Key=3
+Key=?? can u guess it? start from 0
 
-CipherText=NT34DUCFGTR13}V{_L
+CipherText=NT34DuCFGTR13}v{_L
 
 
 

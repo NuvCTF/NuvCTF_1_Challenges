@@ -1,6 +1,9 @@
 HLIUTR551CH1XNVTFGNC7N07NPR331EASVF4P10135P53
+ make sure to keep spaces punctuations and other characters ;)
 
 
+points: 100
 
+author:toosmart
 
 NuvCTF{7r4n5p051710n_c1ph3r_15_3xp3n51v3}

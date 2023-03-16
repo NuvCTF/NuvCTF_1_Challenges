@@ -58,3 +58,13 @@
 ....- ....-
 ....- ..---
 ...-- ----.
+
+
+
+NuvCTF{50m371m35_bru73f0rc1n6_4ll_y0u_c4n_d0}
+
+
+
+points: 200
+
+author: toosmart

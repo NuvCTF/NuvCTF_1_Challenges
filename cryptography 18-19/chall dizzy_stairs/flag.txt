@@ -1,3 +1,5 @@
 NuvCTF{5P1r41_m4d3_m3_d1zzy}
 
+points:50
+
 Author : Juicylynx

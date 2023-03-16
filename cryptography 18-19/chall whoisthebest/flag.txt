@@ -1,3 +1,5 @@
 NuvCTF{iamthebest}
 
+points: 50
+
 author: toosmart
