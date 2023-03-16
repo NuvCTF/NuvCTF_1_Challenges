@@ -1,0 +1,5 @@
+NuvCTF{W3LC0M3_T0_0S1NT_G00D_J0B}
+
+points: 100
+
+author: toosmart
