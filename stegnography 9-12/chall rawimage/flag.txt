@@ -1,0 +1,6 @@
+NuvCTF{R4W_IMAG3S_AR3_4_TH1NG}
+
+
+points: 80
+
+author: toosmart

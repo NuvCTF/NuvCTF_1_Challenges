@@ -1,4 +1,12 @@
 NuvCTF{st3gh1d3_1s_4_gr3at_t00l}
-hint: if the glass is empty, IT IS EMPTY
+hint: if the glass is empty, IT IS EMPTY 
+
+
 
 steghide extract -sf shoob.jpg
+
+points: 100
+
+author: toosmart
+
+

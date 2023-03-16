@@ -1,1 +1,5 @@
 NuvCTF{i_gu1de_oth3rs_t0_th3_trea$ur3s_th@t_1_cann0t_p0$$ess}
+
+points: 100
+
+author: veer

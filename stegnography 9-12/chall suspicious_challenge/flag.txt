@@ -1,0 +1,5 @@
+NuvCTF{y0u_gott@_st@rt_fr0m_th3_b0ttom_som3time$}
+
+points: 150
+
+author: veer

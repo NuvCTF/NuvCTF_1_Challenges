@@ -1,0 +1,6 @@
+NuvCTF{f0r3ns1cs_1s_4_fun_c4teg0ry}
+
+
+points: 80
+
+author: toosmart

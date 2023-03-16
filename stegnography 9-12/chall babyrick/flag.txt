@@ -1,0 +1,5 @@
+NuvCTF{1m461n3_63771n6_r1ck_r0ll3d}
+
+points: 30
+
+author: jiuclynx
