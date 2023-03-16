@@ -1,1 +1,5 @@
-flag is in comments of the rar file
+attack by tabs
+
+points: 50
+
+author: juicylynx
