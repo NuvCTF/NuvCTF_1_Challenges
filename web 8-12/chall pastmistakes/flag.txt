@@ -1,0 +1,5 @@
+NuvCTF{pastmistakes_c4n7_b3_und0n3_bu7_y0u_c4n_l34rn_fr0m_7h3m}
+
+points: 100
+
+author: toosmart

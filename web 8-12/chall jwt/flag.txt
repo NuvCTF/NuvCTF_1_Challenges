@@ -1,1 +1,5 @@
 NuvCTF{w3lld0n3_JWT5_ar3_c00l_ar3nt_th3y}
+
+points: 100
+
+au: toosmart

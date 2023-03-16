@@ -1,1 +1,5 @@
 NuvCTF{wh0_d035n7_l1k3_r0b075_7h3y_4r3_cu73_4f}
+
+points: 150
+
+author: toosmart
