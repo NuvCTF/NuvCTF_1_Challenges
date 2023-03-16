@@ -1,6 +1,6 @@
-A woman with many hats . Besides being an evil person in the security family she also tried her luck in a 90's movie . what is the name of the movie ?
+Which framework is used for finding exploits?
 
-NUVCTF{natural_born_killers}
+NuvCTF{M3TASPL01T}
 \
 
 
