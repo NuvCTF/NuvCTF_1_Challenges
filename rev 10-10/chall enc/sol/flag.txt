@@ -1,0 +1,26 @@
+NuvCTF{16_b17_4r3_m0r3_5c4ry_7h4n_8_b175}
+
+
+points: 300
+
+author: toosmart
+
+
+
+
+
+sol:The code defines a function called unpack which takes in a single argument encoded_flag. This function is used to decode an encoded flag string and convert it back to its original format.
+
+Inside the function, a variable flag is initialized as an empty string. The for loop iterates over each character in the encoded_flag string.
+
+The first step in decoding is to convert the packed character to its corresponding integer value using the ord() function. The highChar variable is then obtained by right-shifting the integer by 8 bits, which is equivalent to dividing the integer by 256. This extracts the higher 8 bits of the packed character.
+
+The highChar value is then converted to its corresponding character using the chr() function and appended to the flag string.
+
+The lowChar variable is obtained by subtracting the left-shifted highChar value from the original integer value of the packed character. Alternatively, lowChar can also be obtained by taking the remainder of the integer value divided by 256 using the modulus operator %. This extracts the lower 8 bits of the packed character.
+
+Finally, the lowChar value is converted to its corresponding character using the chr() function and appended to the flag string.
+
+After decoding all the packed characters in the encoded_flag string, the original flag string is obtained and printed using the print() function.
+
+In summary, the code works by splitting each packed character in the encoded_flag string into two 8-bit characters, where the first character represents the higher 8 bits of the original character and the second character represents the lower 8 bits. These two characters are then combined to obtain the original flag string.

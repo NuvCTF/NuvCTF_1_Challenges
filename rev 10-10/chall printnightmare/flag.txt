@@ -1,1 +1,8 @@
-CVE-2021-1675
+NuvCTF{CVE-2021-1675}
+
+case insens
+
+points: 50
+
+author: karandev
+

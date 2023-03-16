@@ -5,4 +5,3 @@ for i in range(49,-1,-1):
     print(''' if(str.charAt(''' + str(i) + ''') != ''' + "'" + flag[i] + "'" + '''){ System.out.println("Invalid key!!");return;}''')
 
 
-

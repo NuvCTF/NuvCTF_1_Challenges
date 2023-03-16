@@ -1,0 +1,5 @@
+NuvCTF{700l5_4r3_r3qu1r3d_f0r_r3v3r53_3n61n33r1n6}
+
+points: 80
+
+author: toosmart

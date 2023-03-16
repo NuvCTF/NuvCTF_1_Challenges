@@ -1,0 +1,5 @@
+NuvCTF{m3rry_chr157m45_ho3_ho3_ho3}
+
+points: 100
+
+author: toosmart

@@ -1,1 +1,6 @@
 NuvCTF{1n_7h3_|<3y_of_75fc1081}
+
+
+points: 100
+
+author: toosmart
