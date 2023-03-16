@@ -1,1 +1,7 @@
 [ W E = 360 ] [ S N S = 360 ] [ N E W S = ? ]
+
+
+
+points: 150
+
+author: toosmart

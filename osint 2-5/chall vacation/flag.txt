@@ -1,1 +1,1 @@
-cappadocia
+NuvCTF{cappadocia}

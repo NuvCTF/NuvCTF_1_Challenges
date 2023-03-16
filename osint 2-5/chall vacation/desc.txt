@@ -1,0 +1,10 @@
+desponitos went on a vacation, he clicked this image and uploaded to instagram but then deleted it
+
+can u locate this place by using this image?
+
+flag format: NuvCTF{**********}
+
+
+points: 150
+
+author: toosmart
