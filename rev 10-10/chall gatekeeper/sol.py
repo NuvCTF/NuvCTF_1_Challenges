@@ -1,1 +1,1 @@
-print(("zLl1ks_d4m_T0g_I"[::-1]))
+print(("ftc_0t_3m0cl3w"[::-1]))
